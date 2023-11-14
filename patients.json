@@ -1,0 +1,13 @@
+[
+  {
+    "label": "Carlos Caceres",
+    "subitems": []
+  },
+  {
+    "label": "Michael Bate",
+    "subitems": [
+      { "label": "Paracetamol 500 mg" },
+      { "label": "Naproxeno 200 mg" }
+    ]
+  }
+]
