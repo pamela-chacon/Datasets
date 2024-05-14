@@ -156,5 +156,11 @@
 {"id_community":"155","community_name":"YANKUNTICH","wave":"","longitude":"-77.25984553","latitude":"-2.92429398999997","country":"Peru"},
 {"id_community":"156","community_name":"MICHANTSA","wave":"3","longitude":"-77.105031","latitude":"-2.8809709","country":"Peru"},
 {"id_community":"157","community_name":"ACAPULCO","wave":"","longitude":"-77,141675","latitude":"-4,72229833299997","country":"Peru"},
-{"id_community":"158","community_name":"NUEVA ALIANZA","wave":"","longitude":"-76,5661104","latitude":"-4,67293927","country":"Peru"} 
+{"id_community":"158","community_name":"NUEVA ALIANZA","wave":"","longitude":"-76,5661104","latitude":"-4,67293927","country":"Peru"},
+{"id_community":"159","community_name":"ANTENA 04","wave":"","longitude":"-76,952376667","latitude":"-4,80098666699996","country":"Peru"},
+{"id_community":"160","community_name":"ANTIOQUIA","wave":"","longitude":"-76,00515","latitude":"-2,71353166699993","country":"Peru"},
+{"id_community":"161","community_name":"BAGAZAN","wave":"","longitude":"-76,914966667","latitude":"-4,82285166599996","country":"Peru"},
+{"id_community":"162","community_name":"BANCAL","wave":"","longitude":"-77,13003699","latitude":"-4,51590703","country":"Peru"},   
+{"id_community":"163","community_name":"BARRANCA","wave":"","longitude":"-76,6893913","latitude":"-4,82560847","country":"Peru"},   
+{"id_community":"164","community_name":"BELEN","wave":"","longitude":"-76,63094176","latitude":"-3,22061065","country":"Peru"}  
 ]
