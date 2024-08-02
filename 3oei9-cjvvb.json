@@ -314,5 +314,7 @@
 {"id_community":"360","community_name":"SANTA ANA","wave":"3","longitude":"-76.413581","latitude":"-4.8728723","country":"Peru"},
 {"id_community":"361","community_name":"LA CURVA","wave":"3","longitude":"-76.45177","latitude":"-4.7962737","country":"Peru"},
 {"id_community":"362","community_name":"HUITOYACU","wave":"","longitude":"-76,66622047","latitude":"-5,68069456","country":"Peru"},
-{"id_community":"363","community_name":"NUEVO PANDISHAL","wave":"","longitude":"-76,1639259","latitude":"-5,1775314","country":"Peru"} 
+{"id_community":"363","community_name":"NUEVO PANDISHAL","wave":"","longitude":"-76,1639259","latitude":"-5,1775314","country":"Peru"},
+{"id_community":"364","community_name":"SANTA TERESA ZONA II","wave":"2","longitude":"-70.54888877","latitude":"-4.1338352","country":"Peru"},
+{"id_community":"365","community_name":"SANTA TERESA NUEVA/VIEJA","wave":"2","longitude":"-70.5247979","latitude":"-4.134534899","country":"Peru"}  
 ]
