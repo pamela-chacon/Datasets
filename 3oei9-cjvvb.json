@@ -316,5 +316,19 @@
 {"id_community":"362","community_name":"HUITOYACU","wave":"","longitude":"-76,66622047","latitude":"-5,68069456","country":"Peru"},
 {"id_community":"363","community_name":"NUEVO PANDISHAL","wave":"","longitude":"-76,1639259","latitude":"-5,1775314","country":"Peru"},
 {"id_community":"364","community_name":"SANTA TERESA ZONA II","wave":"2","longitude":"-70.54888877","latitude":"-4.1338352","country":"Peru"},
-{"id_community":"365","community_name":"SANTA TERESA NUEVA/VIEJA","wave":"2","longitude":"-70.5247979","latitude":"-4.134534899","country":"Peru"}  
+{"id_community":"365","community_name":"SANTA TERESA NUEVA/VIEJA","wave":"","longitude":"-70.5247979","latitude":"-4.134534899","country":"Peru"},
+{"id_community":"366","community_name":"2-MAKUMA","wave":"","longitude":"-77.68880316","latitude":"-2.13929297","country":"Ecuador"},
+{"id_community":"367","community_name":"2-IKIAM","wave":"","longitude":"-77.39001557","latitude":"-2.12854816","country":"Ecuador"},
+{"id_community":"368","community_name":"2-UWIJINT","wave":"","longitude":"-78.0066759","latitude":"-2.1557023","country":"Ecuador"},
+{"id_community":"369","community_name":"2-SAN LUIS","wave":"","longitude":"-78.11655528","latitude":"-2.38933011","country":"Ecuador"},
+{"id_community":"370","community_name":"2-KUNKI","wave":"","longitude":"-77.8505859","latitude":"-2.20253294","country":"Ecuador"},
+{"id_community":"371","community_name":"2-KINTIUK","wave":"","longitude":"-77.78535684","latitude":"-0.86644142","country":"Ecuador"},
+{"id_community":"372","community_name":"2-MAKUSAR","wave":"","longitude":"-76.51067363","latitude":"-2.36372701","country":"Ecuador"},
+{"id_community":"373","community_name":"2-MUSHUCLLACTA","wave":"","longitude":"-77.87047343","latitude":"-1.58369993","country":"Ecuador"},
+{"id_community":"374","community_name":"2-ITAK","wave":"","longitude":"-77.29376902","latitude":"-2.64415441","country":"Ecuador"},
+{"id_community":"375","community_name":"2-SAN CARLOS","wave":"","longitude":"-77.580412","latitude":"-2.04978","country":"Ecuador"},
+{"id_community":"376","community_name":"2-24 DE MAYO","wave":"","longitude":"-77.629146","latitude":"-1.936226","country":"Ecuador"},
+{"id_community":"377","community_name":"2-YAMPIS","wave":"","longitude":"-77.6155971","latitude":"-1.94451838","country":"Ecuador"},
+{"id_community":"378","community_name":"2-NAMAK","wave":"","longitude":"-77.59459738","latitude":"-1.96670951","country":"Ecuador"},
+{"id_community":"379","community_name":"2-WISHU","wave":"","longitude":"-77.1041096","latitude":"-2.57392084","country":"Ecuador"}  
 ]
